@@ -1,0 +1,12 @@
+#!/usr/bin/env ruby
+
+require_relative '../robot'
+
+# Say bye!
+trap("INT") do
+  puts "\nTerminating... #{Process.pid}"
+  exit(0)
+end
+
+Simulator.boot!
+
