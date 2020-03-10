@@ -1,1 +1,1 @@
-![image](https://dl.dropboxusercontent.com/u/2151674/demo.gif)
+![](http://g.recordit.co/Ksq74DYYea.gif)
